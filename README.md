@@ -63,7 +63,9 @@ Resistance was recorded at each bending stage using a Keithley 2100 multimeter, 
 This bending machine enables the accurate and repeatable testing of flexible electronics, providing critical data on mechanical reliability. By combining precision hardware with automated data collection, this project contributes to advancements in the durability of emerging flexible technologies.
 
 ---
+- The link `[here](a.py)` will redirect users to the file in your repository.
 
+---
 ## References
 
 1. Kreiml et al., 2018 - *Universal bending apparatus for flexible electronics testing.*
