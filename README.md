@@ -10,7 +10,7 @@ This project involves the creation of a custom bending machine for evaluating th
 
 Flexible electronics are pivotal in modern technologies such as wearable devices and foldable displays. Ensuring their reliability under mechanical stress is crucial. This project builds upon existing methodologies to develop a bending machine that facilitates material reliability testing under controlled conditions.
 
-<img src="1.jpg" alt="Bending Mechanism" width="600"/>
+<img src="1.JPG" alt="Bending Mechanism" width="600"/>
 *Figure 1: Bending mechanism.*
 
 Flexible materials experience tensile and compressive stress during bending, with performance influenced by factors like bending radius and cycle count. Studies like Kreiml et al. (2018) and Kim et al. (2018) underscore the importance of controlled testing to assess material durability.
